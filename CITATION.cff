@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you reference any of the publications in this repository, please cite the corresponding paper below."
+title: "Selected Open-Access Publications"
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+url: "https://github.com"
+
+references:
+  - type: article
+    title: "Genetic silencing of KCa3.1 inhibits atherosclerosis in ApoE null mice"
+    authors:
+      - family-names: "Alam"
+        given-names: "Perwez"
+    journal: "Channels"
+    year: 2025
+    doi: "https://doi.org/10.1080/19336950.2025.2538864"
+  
+  - type: article
+    title: "Yoda1 Inhibits TGFβ-Induced Cardiac Fibroblast Activation via a BRD4-Dependent Pathway"
+    authors:
+      - family-names: "Alam"
+        given-names: "Perwez"
+    journal: "Cells"
+    year: 2025
+    doi: "https://doi.org/10.3390/cells14131028"
