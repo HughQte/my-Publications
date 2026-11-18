@@ -28,7 +28,7 @@ evidence that KCa3.1 is a critical regulator of atherosclerotic lesion developme
 composition and provides novel mechanistic insight into the link between KCa3.1 and
 atherosclerosis.
 
-* 📄 **[Read PDF](./papers/Genetic silencing of KCa3.1 inhibits atherosclerosis in ApoE null mice.pdf)**
+* 📄 **[Read PDF](https://github.com/HughQte/my-Publications/blob/main/papers/Genetic%20silencing%20of%20KCa3.1%20inhibits%20atherosclerosis%20in%20ApoE%20null%20mice.pdf)**
 * 🔗 **[Journal Page / DOI](https://doi.org/10.1080/19336950.2025.2538864)**
 
 ---
